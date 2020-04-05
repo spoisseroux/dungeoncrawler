@@ -6,4 +6,4 @@ sprites:
 - https://opengameart.org/content/tileset-1bit-color-extention
 
 sounds:
-all from freesounds.org, edited in audacity
+- all from freesounds.org, edited in audacity
