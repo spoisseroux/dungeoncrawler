@@ -8,7 +8,7 @@ public class Player : MovingObject
 
     public int wallDamage = 1;
     public int pointsPerFood = 10;
-    public int pointsPerSoda = 20;
+    public int pointsPerPotion = 20;
     public float restartLevelDelay = 1f;
 
     private Animator animator; 
@@ -52,8 +52,8 @@ public class Player : MovingObject
         } else if (other.tag == "Food") {
             food += pointsPerFood;
             other.gameObject.SetActive(false);
-        } else if (other.tag == "Soda") {
-            food += pointsPerSoda;
+        } else if (other.tag == "Potion") {
+            food += pointsPerPotion;
             other.gameObject.SetActive(false);
         }
     }

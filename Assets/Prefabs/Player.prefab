@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2246256151728962949}
   - component: {fileID: 3027713177226372013}
   - component: {fileID: 5130860281069188136}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -168,5 +168,5 @@ MonoBehaviour:
     m_Bits: 256
   wallDamage: 1
   pointsPerFood: 10
-  pointsPerSoda: 20
+  pointsPerPotion: 20
   restartLevelDelay: 1
