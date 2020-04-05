@@ -124,3 +124,5 @@ MonoBehaviour:
   dmgSprite: {fileID: 5409851845979639926, guid: ffa752ec63eba4bba9a535d444611a82,
     type: 3}
   hp: 4
+  damageSound1: {fileID: 8300000, guid: 17fe9bb16bfc44dc99c1155a05bec85a, type: 3}
+  damageSound2: {fileID: 8300000, guid: 17fe9bb16bfc44dc99c1155a05bec85a, type: 3}
