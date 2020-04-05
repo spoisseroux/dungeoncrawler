@@ -121,5 +121,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f0696f587a3c4004b434873de34f5ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dmgSprite: {fileID: 0}
+  dmgSprite: {fileID: 3317085038840721605, guid: ffa752ec63eba4bba9a535d444611a82,
+    type: 3}
   hp: 4

@@ -77,4 +77,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c60a6e3b2cee845808af68e692e21b21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  boardScript: {fileID: 0}
+  turnDelay: 0.1
+  boardScript: {fileID: 7354230598387300097}
+  playerFoodPoints: 100
+  playersTurn: 1

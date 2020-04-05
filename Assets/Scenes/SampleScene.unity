@@ -287,3 +287,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1547312057 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3276118452283046858, guid: 9d064f4863ad24d5f8b2cf5cbaccf390,
+    type: 3}
+  m_PrefabInstance: {fileID: 286231480}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1547312063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1547312057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b4e107b42e4f6dbe304edf44dca21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveTime: 0.1
+  blockingLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  wallDamage: 1
+  pointsPerFood: 10
+  pointsPerSoda: 20
+  restartLevelDelay: 1
